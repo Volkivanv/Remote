@@ -12,4 +12,8 @@ git remote add <имя для репозитория (origin)> <Url-адрес �
 ```
 git pull
 ```
-
+```
+for(int i = 0; i < 10; i++){
+    console.writeLine(i*i);
+}
+```
